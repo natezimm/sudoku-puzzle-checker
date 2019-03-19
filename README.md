@@ -1,1 +1,1 @@
-# sudoku-puzzle-checker
+This program will check a 9x9 sudoku puzzle and test if it is valid. It is a valid puzzle if 1-9 are in each row, each column, and each 3x3 grid without repeats. If any errors are found, the program will print them out.
